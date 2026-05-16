@@ -1,4 +1,4 @@
-# Codeveda_level1_task2
+# Codveda_level1_task2
 
 ## Number Guessing Game
 
